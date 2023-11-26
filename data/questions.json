@@ -1,0 +1,11 @@
+[
+    {
+      "question": "What is the capital of France?",
+      "answers": [
+        { "answer": "Kigali", "isCorrect": false },
+        { "answer": "Paris", "isCorrect": true },
+        { "answer": "Kampala", "isCorrect": false },
+        { "answer": "Nairobi", "isCorrect": false }
+      ]
+    }
+  ]
