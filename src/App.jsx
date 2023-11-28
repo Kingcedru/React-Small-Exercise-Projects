@@ -1,11 +1,10 @@
 import React from "react";
-import ImageSlides from "./imageSlides/ImageSlides";
-import QuizApp from "./quizApp/QuizApp";
+import NavBar from "./navBar/NavBar";
 
 export default function App() {
   return (
     <>
-      <QuizApp/>
+      <NavBar/>
     </>
   )
 }
